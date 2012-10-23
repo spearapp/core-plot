@@ -82,7 +82,7 @@
 		07B69B7112B62E9600F4C16C /* CPTMutableLineStyle.h in Headers */ = {isa = PBXBuildFile; fileRef = 07B69B6F12B62E9600F4C16C /* CPTMutableLineStyle.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		07B69B7212B62E9600F4C16C /* CPTMutableLineStyle.m in Sources */ = {isa = PBXBuildFile; fileRef = 07B69B7012B62E9600F4C16C /* CPTMutableLineStyle.m */; };
 		07FCF2D4115B54DE00E46606 /* _CPTSlateTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = 07FCF2D2115B54DE00E46606 /* _CPTSlateTheme.m */; };
-		BC4FAF29100D7DF300811DD3 /* NSDecimalNumberExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = BC9B82B10FB89E610035D8DA /* NSDecimalNumberExtensions.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		BC4FAF29100D7DF300811DD3 /* NSDecimalNumberExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = BC9B82B10FB89E610035D8DA /* NSDecimalNumberExtensions.h */; settings = {ATTRIBUTES = (); }; };
 		BC74A2C210FC087800E7E90D /* CPTPieChart.h in Headers */ = {isa = PBXBuildFile; fileRef = BC74A2C010FC087800E7E90D /* CPTPieChart.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BC74A2C310FC087800E7E90D /* CPTPieChart.m in Sources */ = {isa = PBXBuildFile; fileRef = BC74A2C110FC087800E7E90D /* CPTPieChart.m */; };
 		BC79F1D50FD1DC1A00510976 /* CPTGraphHostingView.h in Headers */ = {isa = PBXBuildFile; fileRef = BC79F1D30FD1DC1A00510976 /* CPTGraphHostingView.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -111,16 +111,16 @@
 		BC9B83700FB8A1700035D8DA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		BC9B83710FB8A1700035D8DA /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
 		BC9B83C30FB8AC4B0035D8DA /* CorePlot-CocoaTouch.h in Headers */ = {isa = PBXBuildFile; fileRef = BC9B83C20FB8AC4B0035D8DA /* CorePlot-CocoaTouch.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BCC7EA451006BF5700B39451 /* _CPTPlainBlackTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = BCC7EA3F1006BF5700B39451 /* _CPTPlainBlackTheme.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		BCC7EA451006BF5700B39451 /* _CPTPlainBlackTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = BCC7EA3F1006BF5700B39451 /* _CPTPlainBlackTheme.h */; settings = {ATTRIBUTES = (); }; };
 		BCC7EA461006BF5700B39451 /* _CPTPlainBlackTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = BCC7EA401006BF5700B39451 /* _CPTPlainBlackTheme.m */; };
-		BCC7EA471006BF5700B39451 /* _CPTPlainWhiteTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = BCC7EA411006BF5700B39451 /* _CPTPlainWhiteTheme.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		BCC7EA471006BF5700B39451 /* _CPTPlainWhiteTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = BCC7EA411006BF5700B39451 /* _CPTPlainWhiteTheme.h */; settings = {ATTRIBUTES = (); }; };
 		BCC7EA481006BF5700B39451 /* _CPTPlainWhiteTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = BCC7EA421006BF5700B39451 /* _CPTPlainWhiteTheme.m */; };
-		BCC7EA491006BF5700B39451 /* _CPTStocksTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = BCC7EA431006BF5700B39451 /* _CPTStocksTheme.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		BCC7EA491006BF5700B39451 /* _CPTStocksTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = BCC7EA431006BF5700B39451 /* _CPTStocksTheme.h */; settings = {ATTRIBUTES = (); }; };
 		BCC7EA4A1006BF5700B39451 /* _CPTStocksTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = BCC7EA441006BF5700B39451 /* _CPTStocksTheme.m */; };
-		C304565313F4AC9A004D04BC /* _CPTDarkGradientTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = C304565213F4AC9A004D04BC /* _CPTDarkGradientTheme.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C304565313F4AC9A004D04BC /* _CPTDarkGradientTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = C304565213F4AC9A004D04BC /* _CPTDarkGradientTheme.h */; settings = {ATTRIBUTES = (); }; };
 		C30550E91399BE2000E0151F /* CPTLegendEntry.h in Headers */ = {isa = PBXBuildFile; fileRef = C30550E71399BE2000E0151F /* CPTLegendEntry.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C30550EA1399BE2000E0151F /* CPTLegendEntry.m in Sources */ = {isa = PBXBuildFile; fileRef = C30550E81399BE2000E0151F /* CPTLegendEntry.m */; };
-		C30C85AB1047428100181766 /* CPTPlotGroup.h in Headers */ = {isa = PBXBuildFile; fileRef = C30C85A91047428100181766 /* CPTPlotGroup.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C30C85AB1047428100181766 /* CPTPlotGroup.h in Headers */ = {isa = PBXBuildFile; fileRef = C30C85A91047428100181766 /* CPTPlotGroup.h */; settings = {ATTRIBUTES = (); }; };
 		C30C85AC1047428100181766 /* CPTPlotGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = C30C85AA1047428100181766 /* CPTPlotGroup.m */; };
 		C318F4C111EA18A400595FF9 /* CPTLimitBand.h in Headers */ = {isa = PBXBuildFile; fileRef = C318F4BF11EA18A400595FF9 /* CPTLimitBand.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C318F4C211EA18A400595FF9 /* CPTLimitBand.m in Sources */ = {isa = PBXBuildFile; fileRef = C318F4C011EA18A400595FF9 /* CPTLimitBand.m */; };
@@ -130,18 +130,18 @@
 		C32EE1C913EC4C7200038266 /* CPTMutableShadow.m in Sources */ = {isa = PBXBuildFile; fileRef = C32EE1C713EC4C7200038266 /* CPTMutableShadow.m */; };
 		C3392A361225F63B008DA6BD /* CPTNumericData+TypeConversion.m in Sources */ = {isa = PBXBuildFile; fileRef = C3392A351225F63B008DA6BD /* CPTNumericData+TypeConversion.m */; };
 		C3436C4F13F4AC4400739AC2 /* _CPTDarkGradientTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = C3436C4E13F4AC4400739AC2 /* _CPTDarkGradientTheme.m */; };
-		C3436C5113F4AC6000739AC2 /* _CPTSlateTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = C3436C5013F4AC6000739AC2 /* _CPTSlateTheme.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C3436C5113F4AC6000739AC2 /* _CPTSlateTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = C3436C5013F4AC6000739AC2 /* _CPTSlateTheme.h */; settings = {ATTRIBUTES = (); }; };
 		C349DCB0151AAFAB00BFD6A7 /* CPTCalendarFormatter.h in Headers */ = {isa = PBXBuildFile; fileRef = C349DCAE151AAFAB00BFD6A7 /* CPTCalendarFormatter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C349DCB1151AAFAB00BFD6A7 /* CPTCalendarFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = C349DCAF151AAFAB00BFD6A7 /* CPTCalendarFormatter.m */; };
 		C35A65A511025EDF00FE24BB /* CPTPlotArea.h in Headers */ = {isa = PBXBuildFile; fileRef = C35A65A311025EDF00FE24BB /* CPTPlotArea.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C35A65A611025EDF00FE24BB /* CPTPlotArea.m in Sources */ = {isa = PBXBuildFile; fileRef = C35A65A411025EDF00FE24BB /* CPTPlotArea.m */; };
-		C35A65B311025F8A00FE24BB /* CPTGridLines.h in Headers */ = {isa = PBXBuildFile; fileRef = C35A65B111025F8A00FE24BB /* CPTGridLines.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C35A65B311025F8A00FE24BB /* CPTGridLines.h in Headers */ = {isa = PBXBuildFile; fileRef = C35A65B111025F8A00FE24BB /* CPTGridLines.h */; settings = {ATTRIBUTES = (); }; };
 		C35A65B411025F8A00FE24BB /* CPTGridLines.m in Sources */ = {isa = PBXBuildFile; fileRef = C35A65B211025F8A00FE24BB /* CPTGridLines.m */; };
 		C35A65B911025FA900FE24BB /* CPTAxisLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = C35A65B511025FA900FE24BB /* CPTAxisLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C35A65BA11025FA900FE24BB /* CPTAxisLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = C35A65B611025FA900FE24BB /* CPTAxisLabel.m */; };
 		C35A65BB11025FA900FE24BB /* CPTAxisTitle.h in Headers */ = {isa = PBXBuildFile; fileRef = C35A65B711025FA900FE24BB /* CPTAxisTitle.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C35A65BC11025FA900FE24BB /* CPTAxisTitle.m in Sources */ = {isa = PBXBuildFile; fileRef = C35A65B811025FA900FE24BB /* CPTAxisTitle.m */; };
-		C35A65BF11025FB300FE24BB /* CPTAxisLabelGroup.h in Headers */ = {isa = PBXBuildFile; fileRef = C35A65BD11025FB300FE24BB /* CPTAxisLabelGroup.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C35A65BF11025FB300FE24BB /* CPTAxisLabelGroup.h in Headers */ = {isa = PBXBuildFile; fileRef = C35A65BD11025FB300FE24BB /* CPTAxisLabelGroup.h */; settings = {ATTRIBUTES = (); }; };
 		C35A65C011025FB300FE24BB /* CPTAxisLabelGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = C35A65BE11025FB300FE24BB /* CPTAxisLabelGroup.m */; };
 		C35A65C711025FCC00FE24BB /* CPTXYAxis.h in Headers */ = {isa = PBXBuildFile; fileRef = C35A65C111025FCC00FE24BB /* CPTXYAxis.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C35A65C811025FCC00FE24BB /* CPTXYAxis.m in Sources */ = {isa = PBXBuildFile; fileRef = C35A65C211025FCC00FE24BB /* CPTXYAxis.m */; };
@@ -149,11 +149,11 @@
 		C35A65CA11025FCC00FE24BB /* CPTXYAxisSet.m in Sources */ = {isa = PBXBuildFile; fileRef = C35A65C411025FCC00FE24BB /* CPTXYAxisSet.m */; };
 		C35A66071102723E00FE24BB /* CPTTextStylePlatformSpecific.h in Headers */ = {isa = PBXBuildFile; fileRef = C35A66051102723E00FE24BB /* CPTTextStylePlatformSpecific.h */; settings = {ATTRIBUTES = (); }; };
 		C35A66081102723E00FE24BB /* CPTTextStylePlatformSpecific.m in Sources */ = {isa = PBXBuildFile; fileRef = C35A66061102723E00FE24BB /* CPTTextStylePlatformSpecific.m */; };
-		C38DD49711A04B99002A68E7 /* CPTGridLineGroup.h in Headers */ = {isa = PBXBuildFile; fileRef = C38DD49511A04B99002A68E7 /* CPTGridLineGroup.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C38DD49711A04B99002A68E7 /* CPTGridLineGroup.h in Headers */ = {isa = PBXBuildFile; fileRef = C38DD49511A04B99002A68E7 /* CPTGridLineGroup.h */; settings = {ATTRIBUTES = (); }; };
 		C38DD49811A04B99002A68E7 /* CPTGridLineGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = C38DD49611A04B99002A68E7 /* CPTGridLineGroup.m */; };
 		C3920ACF1395B7680045F3BB /* CPTLegend.h in Headers */ = {isa = PBXBuildFile; fileRef = C3920ACD1395B7680045F3BB /* CPTLegend.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C3920AD01395B7680045F3BB /* CPTLegend.m in Sources */ = {isa = PBXBuildFile; fileRef = C3920ACE1395B7680045F3BB /* CPTLegend.m */; };
-		C3978E1013CE65C600A420D9 /* NSCoderExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = C3978E0E13CE65C600A420D9 /* NSCoderExtensions.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C3978E1013CE65C600A420D9 /* NSCoderExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = C3978E0E13CE65C600A420D9 /* NSCoderExtensions.h */; settings = {ATTRIBUTES = (); }; };
 		C3978E1113CE65C600A420D9 /* NSCoderExtensions.m in Sources */ = {isa = PBXBuildFile; fileRef = C3978E0F13CE65C600A420D9 /* NSCoderExtensions.m */; };
 		C3A695E1146A196100AF5653 /* CPTMutablePlotRange.h in Headers */ = {isa = PBXBuildFile; fileRef = C3A695DF146A196100AF5653 /* CPTMutablePlotRange.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C3A695E2146A196100AF5653 /* CPTMutablePlotRange.m in Sources */ = {isa = PBXBuildFile; fileRef = C3A695E0146A196100AF5653 /* CPTMutablePlotRange.m */; };
@@ -174,15 +174,15 @@
 		C3B623CF107EC9680009EF0B /* CPTScatterPlot.h in Headers */ = {isa = PBXBuildFile; fileRef = BC9B82D40FB89E610035D8DA /* CPTScatterPlot.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C3B623D1107EC96E0009EF0B /* CPTUtilities.h in Headers */ = {isa = PBXBuildFile; fileRef = BC9B82A70FB89E610035D8DA /* CPTUtilities.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C3B623D2107EC9760009EF0B /* CPTXYGraph.h in Headers */ = {isa = PBXBuildFile; fileRef = BC9B82B80FB89E610035D8DA /* CPTXYGraph.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C3B623D3107EC97A0009EF0B /* NSNumberExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = BC9B82B30FB89E610035D8DA /* NSNumberExtensions.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		C3B623D4107EC9800009EF0B /* _CPTFillColor.h in Headers */ = {isa = PBXBuildFile; fileRef = BC9B828A0FB89E610035D8DA /* _CPTFillColor.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		C3B623D5107EC9820009EF0B /* _CPTFillGradient.h in Headers */ = {isa = PBXBuildFile; fileRef = BC9B828C0FB89E610035D8DA /* _CPTFillGradient.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		C3B623D6107EC9830009EF0B /* _CPTFillImage.h in Headers */ = {isa = PBXBuildFile; fileRef = BC9B828E0FB89E610035D8DA /* _CPTFillImage.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C3B623D3107EC97A0009EF0B /* NSNumberExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = BC9B82B30FB89E610035D8DA /* NSNumberExtensions.h */; settings = {ATTRIBUTES = (); }; };
+		C3B623D4107EC9800009EF0B /* _CPTFillColor.h in Headers */ = {isa = PBXBuildFile; fileRef = BC9B828A0FB89E610035D8DA /* _CPTFillColor.h */; settings = {ATTRIBUTES = (); }; };
+		C3B623D5107EC9820009EF0B /* _CPTFillGradient.h in Headers */ = {isa = PBXBuildFile; fileRef = BC9B828C0FB89E610035D8DA /* _CPTFillGradient.h */; settings = {ATTRIBUTES = (); }; };
+		C3B623D6107EC9830009EF0B /* _CPTFillImage.h in Headers */ = {isa = PBXBuildFile; fileRef = BC9B828E0FB89E610035D8DA /* _CPTFillImage.h */; settings = {ATTRIBUTES = (); }; };
 		C3CAFB3B1229E48200F5C989 /* CPTMutableNumericData+TypeConversion.h in Headers */ = {isa = PBXBuildFile; fileRef = C3CAFB391229E48200F5C989 /* CPTMutableNumericData+TypeConversion.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C3CAFB3C1229E48200F5C989 /* CPTMutableNumericData+TypeConversion.m in Sources */ = {isa = PBXBuildFile; fileRef = C3CAFB3A1229E48200F5C989 /* CPTMutableNumericData+TypeConversion.m */; };
-		C3CCA04813E8D94800CE6DB1 /* _CPTConstraintsFixed.h in Headers */ = {isa = PBXBuildFile; fileRef = C3CCA04413E8D94800CE6DB1 /* _CPTConstraintsFixed.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C3CCA04813E8D94800CE6DB1 /* _CPTConstraintsFixed.h in Headers */ = {isa = PBXBuildFile; fileRef = C3CCA04413E8D94800CE6DB1 /* _CPTConstraintsFixed.h */; settings = {ATTRIBUTES = (); }; };
 		C3CCA04913E8D94800CE6DB1 /* _CPTConstraintsFixed.m in Sources */ = {isa = PBXBuildFile; fileRef = C3CCA04513E8D94800CE6DB1 /* _CPTConstraintsFixed.m */; };
-		C3CCA04A13E8D94800CE6DB1 /* _CPTConstraintsRelative.h in Headers */ = {isa = PBXBuildFile; fileRef = C3CCA04613E8D94800CE6DB1 /* _CPTConstraintsRelative.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C3CCA04A13E8D94800CE6DB1 /* _CPTConstraintsRelative.h in Headers */ = {isa = PBXBuildFile; fileRef = C3CCA04613E8D94800CE6DB1 /* _CPTConstraintsRelative.h */; settings = {ATTRIBUTES = (); }; };
 		C3CCA04B13E8D94800CE6DB1 /* _CPTConstraintsRelative.m in Sources */ = {isa = PBXBuildFile; fileRef = C3CCA04713E8D94800CE6DB1 /* _CPTConstraintsRelative.m */; };
 		C3D3AD3413DF8E9D0004EA73 /* CPTLineCap.h in Headers */ = {isa = PBXBuildFile; fileRef = C3D3AD3213DF8E9D0004EA73 /* CPTLineCap.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C3D3AD3513DF8E9D0004EA73 /* CPTLineCap.m in Sources */ = {isa = PBXBuildFile; fileRef = C3D3AD3313DF8E9D0004EA73 /* CPTLineCap.m */; };
@@ -193,7 +193,7 @@
 		C3D68B0E1221651200EB4863 /* CPTNumericData.m in Sources */ = {isa = PBXBuildFile; fileRef = C3CADE3111B188A800D36017 /* CPTNumericData.m */; };
 		C3D68B0F1221651500EB4863 /* CPTNumericDataType.h in Headers */ = {isa = PBXBuildFile; fileRef = C3CADE3911B188B600D36017 /* CPTNumericDataType.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C3D68B101221651600EB4863 /* CPTNumericDataType.m in Sources */ = {isa = PBXBuildFile; fileRef = C3CADE3A11B188B600D36017 /* CPTNumericDataType.m */; };
-		C40CFB94107EC1B40057E828 /* _CPTXYTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = C40CFB92107EC1B40057E828 /* _CPTXYTheme.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		C40CFB94107EC1B40057E828 /* _CPTXYTheme.h in Headers */ = {isa = PBXBuildFile; fileRef = C40CFB92107EC1B40057E828 /* _CPTXYTheme.h */; settings = {ATTRIBUTES = (); }; };
 		C40CFB95107EC1B40057E828 /* _CPTXYTheme.m in Sources */ = {isa = PBXBuildFile; fileRef = C40CFB93107EC1B40057E828 /* _CPTXYTheme.m */; };
 		D0C047BF12D6568500DA8047 /* CPTRangePlot.m in Sources */ = {isa = PBXBuildFile; fileRef = D0C047BD12D6568500DA8047 /* CPTRangePlot.m */; };
 		D0C047C012D6568500DA8047 /* CPTRangePlot.h in Headers */ = {isa = PBXBuildFile; fileRef = D0C047BE12D6568500DA8047 /* CPTRangePlot.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -1085,7 +1085,6 @@
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_SYMBOL_SEPARATION = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
-				INSTALL_PATH = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
 				OTHER_CPTLUSPLUSFLAGS = "$(OTHER_CFLAGS)";
 				OTHER_LDFLAGS = (
 					"-all_load",
@@ -1103,7 +1102,6 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_ENABLE_SYMBOL_SEPARATION = YES;
-				INSTALL_PATH = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)";
 				OTHER_CPTLUSPLUSFLAGS = "$(OTHER_CFLAGS)";
 				OTHER_LDFLAGS = (
 					"-all_load",
